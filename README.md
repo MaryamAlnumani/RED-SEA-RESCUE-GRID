@@ -60,6 +60,9 @@ The main objective of RED SEA RESCUE GRID is to create a smart maritime monitori
                            │
                            ▼
                   Alerts & Decisions
+
+               ```
+
 📊 Cumulocity IoT Dashboards
 
 Five dashboards were developed to provide different operational, environmental, predictive, and decision-support views of the Red Sea Rescue Grid.
@@ -146,7 +149,7 @@ Concept
 
 AI Analysis → Route Optimization → Rescue Readiness
 
-![AI Rescue & Route Optimization Dashboard](docs/screenshots/dashboard-05-ai-rescue-route-optimization.jpeg)
+![AI Rescue & Route Optimization Dashboard](./docs/screenshots/dashboard-05-ai-rescue-route-optimization.jpeg)
 
 🧠 Analytics Builder
 
