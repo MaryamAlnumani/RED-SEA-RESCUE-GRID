@@ -290,17 +290,19 @@ Dashboards
 Alerts
       ↓
 Decision Support
+
+
 ⭐ Project Highlights
 
-🌊 IoT-based maritime monitoring
-🚢 Simulated vessel telemetry
-📍 Real-time vessel tracking
-📊 Five Cumulocity IoT dashboards
-🧠 Analytics Builder predictive-risk workflow
-⚡ Vessel speed and heading monitoring
-📍 Position-based monitoring
-🌊 Marine and environmental monitoring
-⚠️ Risk visualization
-🔔 Early-warning concept
-🤖 AI-assisted rescue and route optimization concept
-🛡️ Designed for maritime safety and marine environmental protection
+- 🌊 IoT-based maritime monitoring.
+- 🚢 Simulated vessel telemetry.
+- 📍 Real-time vessel tracking.
+-  📊 Five Cumulocity IoT dashboards.
+- 🧠 Analytics Builder predictive-risk workflow.
+- ⚡ Vessel speed and heading monitoring.
+- 📍 Position-based monitoring.
+- 🌊 Marine and environmental monitoring.
+- ⚠️ Risk visualization.
+- 🔔 Early-warning concept.
+- 🤖 AI-assisted rescue and route optimization concept.
+- 🛡️ Designed for maritime safety and marine environmental protection.
