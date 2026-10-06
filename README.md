@@ -81,8 +81,7 @@ Monitoring Concept
 
 MONITOR → PREDICT → DECIDE → PROTECT
 
-![Overview Dashboard](docs/screenshots/dashboard-01-overview.jpeg)
-
+<img src="docs/screenshots/dashboard-01-overview.jpeg" alt="Overview Dashboard" width="100%">
 🚢 2. Live Marine Monitoring
 
 This dashboard focuses on real-time vessel and marine activity.
@@ -99,9 +98,7 @@ Vessel speed
 Vessel heading
 Vessel position
 Current marine activity
-
-![Live Marine Monitoring Dashboard](docs/screenshots/dashboard-02-live-marine-monitoring.jpeg)
-
+<img src="docs/screenshots/dashboard-02-live-marine-monitoring.jpeg" alt="Live Marine Monitoring Dashboard" width="100%">
 🌊 3. Ocean & Marine Environment
 
 This dashboard focuses on marine and environmental conditions.
@@ -115,8 +112,7 @@ Concept
 
 Ocean Conditions → Marine Awareness → Safer Decisions
 
-![Ocean & Marine Environment Dashboard](docs/screenshots/dashboard-03-ocean-marine-environment.jpeg)
-
+<img src="docs/screenshots/dashboard-03-ocean-marine-environment.jpeg" alt="Ocean & Marine Environment Dashboard" width="100%">
 ⚠️ 4. Predictive Risk
 
 This dashboard focuses on identifying and monitoring potential maritime risks.
@@ -133,8 +129,7 @@ Concept
 
 Detect → Analyze → Predict → Alert
 
-![Predictive Risk Dashboard](docs/screenshots/dashboard-04-predictive-risk.jpeg)
-
+<img src="docs/screenshots/dashboard-04-predictive-risk.jpeg" alt="Predictive Risk Dashboard" width="100%">
 🤖 5. AI Rescue & Route Optimization
 
 This dashboard focuses on intelligent decision support for maritime safety and rescue operations.
@@ -149,7 +144,7 @@ Concept
 
 AI Analysis → Route Optimization → Rescue Readiness
 
-![AI Rescue & Route Optimization Dashboard](./docs/screenshots/dashboard-05-ai-rescue-route-optimization.jpeg)
+<img src="docs/screenshots/dashboard-05-ai-rescue-route-optimization.jpeg" alt="AI Rescue & Route Optimization Dashboard" width="100%">
 
 🧠 Analytics Builder
 
